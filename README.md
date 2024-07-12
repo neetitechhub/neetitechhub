@@ -5,6 +5,7 @@ A passionate Data Analyst / Power BI Developer.
 Explore curated data analysis projects demonstrating my skills in extracting insights and making data-driven decisions.
 
 **Skills:**  SQL💻 Excel📈 Power BI📊 DAX 
+
 **Learning towards:** Python, Azure Cloud
 
 **Contact:** Reach out to me via email at neetip65@gmail.com 📧
