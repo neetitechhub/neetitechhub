@@ -7,5 +7,7 @@ Skills:  SQL💻 Excel📈 Power BI📊
 Contact:  Reach out to me via email at neetip65@gmail.com 📧
 
 Connect:
+
 LinkedIn: https://www.linkedin.com/in/neetipandey26/ 🔗
+
 Portfolio: https://mavenanalytics.io/profile/Neeti-Pandey/189889025🌐
