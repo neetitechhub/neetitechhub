@@ -13,3 +13,5 @@ Explore curated data analysis projects demonstrating my skills in extracting ins
 **LinkedIn:** https://www.linkedin.com/in/neetipandey26/ 🔗
 
 **Portfolio:** https://mavenanalytics.io/profile/Neeti-Pandey/189889025
+
+I have placed all my practice set here at one go.
