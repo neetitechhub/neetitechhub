@@ -1,6 +1,6 @@
 ## Hi👋 I am Neeti,  Welcome to my Profile!
 
-A passionate Data Analyst / Power BI Developer.
+As both an Business Analyst and Data Developer, my experience merges a solid business understanding with advanced technical skills.
 
 Currently, I am refining my skills in SQL and Power BI, focusing on extracting valuable insights to strengthen business intelligence. Additionally, I am incorporating Python into my skill set, which allows me to explore and analyze data with greater depth and efficiency.
 
