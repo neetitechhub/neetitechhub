@@ -15,5 +15,3 @@ I enjoy teamwork and adding value to generate a positive impact on society. I re
 **LinkedIn:** https://www.linkedin.com/in/neetipandey26/ 🔗
 
 **Portfolio:** https://mavenanalytics.io/profile/Neeti-Pandey/189889025
-
-**I have placed all my last few months practice set here at one go.**
