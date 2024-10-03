@@ -1,8 +1,10 @@
-## Hi👋 I am Neeti [(https://camo.githubusercontent.com/2de35dedc84fe2b82e63f38885b93f4f15d9b7c4b47fbffb3e1d115e717f9837/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b52654b6366727331596f546d74324151742f67697068792e676966)] Welcome to my Profile
+## Hi👋 I am Neeti,  Welcome to my Profile!
 
 A passionate Data Analyst / Power BI Developer.
 
-Explore curated data analysis projects demonstrating my skills in extracting insights and making data-driven decisions.
+Currently, I am refining my skills in SQL and Power BI, focusing on extracting valuable insights to strengthen business intelligence. Additionally, I am incorporating Python into my skill set, which allows me to explore and analyze data with greater depth and efficiency.
+
+I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us.
 
 **Skills:**  SQL💻 Excel📈 Power BI📊 DAX 
 
