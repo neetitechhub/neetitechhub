@@ -8,7 +8,9 @@ I enjoy teamwork and adding value to generate a positive impact on society. I re
 
 **Skills:**  SQL💻 Excel📈 Power BI📊 DAX 
 
-**Learning towards:** Python, Azure Cloud
+**Learning towards:** Python,Pandas, Numpy, Tableau
+
+**In Bucket to Learn More:** Azure Cloud, PowerApps & Power Automate
 
 **Contact:** Reach out to me via email at neetip65@gmail.com 📧
 
