@@ -8,7 +8,7 @@ I enjoy teamwork and adding value to generate a positive impact on society. I re
 
 **Skills:**  SQL💻 Excel📈 Power BI📊 DAX 
 
-**Learning towards:** Python,Pandas, Numpy, Tableau
+**Learning towards:** Python,Pandas, Numpy
 
 **In Bucket to Learn More:** Azure Cloud, PowerApps & Power Automate
 
